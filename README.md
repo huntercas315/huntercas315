@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @huntercas315
-- 👀 I’m interested in ... stuff
+- 👀 I’m interested in ... various things
 - 🌱 I’m currently learning ... python
-- 💞️ I’m looking to collaborate on ... nothing
+- 💞️ I’m looking to collaborate on ... literally nothing
 - 📫 How to reach me ... don't
 
 <!---
